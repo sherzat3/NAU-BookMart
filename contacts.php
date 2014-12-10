@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>2make</title>
+        <title>NAU BookMart</title>
         <link href="css/bootstrap.css" rel="stylesheet" media="screen">
         <link href="css/datepicker.css" rel="stylesheet">
         <link href="css/bootstrap-timepicker.min.css" rel="stylesheet">
